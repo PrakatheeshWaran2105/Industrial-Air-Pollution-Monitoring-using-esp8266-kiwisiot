@@ -12,8 +12,8 @@ By integrating KiwisIoT, this project demonstrates a simple approach to industri
 
 Project Link:https://www.hackster.io/prakatheesh2105/industrial-air-pollution-monitoring-using-esp8266-kiwisiot-a9c41e
 
-👉 https://www.kiwisiot.com/
+👉 https://www.kiwisiot.in/
 
-Learn More:
+## **Explore More Projects**
 
-https://github.com/Kiwistron/KiwisIoT-Projects
+Looking for more IoT project ideas? Visit the [KiwisIoT Projects GitHub Repository](https://github.com/Kiwistron/KiwisIoT-Projects) to explore different project examples, understand their implementations, and use them as references when developing your own IoT projects.
